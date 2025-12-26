@@ -8,12 +8,12 @@ const GOOGLE_CONFIG = {
     // Your OAuth 2.0 Client ID
     // Get this from: Google Cloud Console → APIs & Services → Credentials
     // Example: '123456789-abc123xyz.apps.googleusercontent.com'
-    CLIENT_ID: '774665258794-oquckclq9m9ejesui9qviiuomeh86tg7.apps.googleusercontent.com', // ← REPLACE THIS
+    CLIENT_ID: '', // ← REPLACE THIS
     
     // Your API Key
     // Get this from: Google Cloud Console → APIs & Services → Credentials
     // Example: 'AIzaSyAbc123...'
-    API_KEY: 'AIzaSyDz3jXyqONLDWaSg6qzTDrGlmHFO9tC6GQ', // ← REPLACE THIS
+    API_KEY: ', // ← REPLACE THIS
     
     // Don't change these
     DISCOVERY_DOCS: ['https://sheets.googleapis.com/$discovery/rest?version=v4'],
